@@ -1,5 +1,5 @@
 # Simply-Data-Database-Creator
-Create And Edit Encrypted / Non-Encrypted Sql3 Databases
+Create And Edit Encrypted / Non-Encrypted Sql3 Databases.
 Designed Using Python 3.14.2 For Windows 11.
 English Or Spanish Languaqges Are Available In The File Menu.
 Encrypted Databases Are Password Protected But Non-Encrypted Are Not.
