@@ -9,5 +9,6 @@ Indirectly To Create a Encryption Key For The Creation Of A Database.
 Non-Encrypted Databases Can Be Viewed Under Any Login Password. 
 Just Remember, If You Loose Your Password, You Loose Your Encrypted Database! 
 The Login Password Can Be Changed At Any Time In The File Menu. 
-Just Remember That The Last Password Change Will Become The Program Login Password.
+Just Remember That The Last Password Change Will Become The Program Login Password. 
+For More Information View The Readme Text Files.
 
