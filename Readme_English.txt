@@ -31,7 +31,7 @@ Video Extensions (mp4, avi, mov, mkv, mpg, mpeg, wmv, webm, flv, mj2, 3gp, 3g2)
 Image Extensions (bmp, jpg, jpeg, gif, png, ppm, dib)
 
 URL Extensions (com, net, org, gov, info, biz, io, co, ai, ca, dev, me, de, app, in, is, ec, com.ec, info.ec, med.ec, pro.ec, eu, gg, to, ph, us, store, nl, id, inc, website, xyz, club, online, info, best, live, tech, pw, pro, uk, tv, cx, mx, fm, cc, world, space, vip, life, shop, host, fun, icu, design, art)
-and anything with https: or www.
+and anything with (https: or www.).
 
 Database Extensions (db, db2, db3, sl2 ,sl3, sdb, s2db, sqlite, sqlite2, sqlite3)
 
