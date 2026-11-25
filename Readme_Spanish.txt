@@ -9,6 +9,7 @@ Extensiones de video (mp4, avi, mov, mkv, mpg, mpeg, wmv, webm, flv, mj2, 3gp, 3
 Extensiones de imagen (bmp, jpg, jpeg, gif, png, ppm, dib)
 
 Extensiones de URL (com, net, org, gov, info, biz, io, co, ai, ca, dev, me, de, app, in, is, ec, com.ec, info.ec, med.ec, pro.ec, eu, gg, to, ph, us, store, nl, id, inc, website, xyz, club, online, info, best, live, tech, pw, pro, uk, tv, cx, mx, fm, cc, world, space, vip, life, shop, host, fun, icu, design, art)
+y cualquier cosa con (https: o www.).
 
 Extensiones de Base de Datos (db, db2, db3, sl2 ,sl3, sdb, s2db, sqlite, sqlite2, sqlite3)
 
